@@ -1,0 +1,5 @@
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\KutuphaneKatmanli.DAL\bin\x64\Debug\KutuphaneKatmanli.DAL.dll
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\KutuphaneKatmanli.DAL\bin\x64\Debug\KutuphaneKatmanli.DAL.pdb
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\KutuphaneKatmanli.DAL\obj\x64\Debug\KutuphaneKatmanli.DAL.dll
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\KutuphaneKatmanli.DAL\obj\x64\Debug\KutuphaneKatmanli.DAL.pdb
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\KutuphaneKatmanli.DAL\obj\x64\Debug\KutuphaneKatmanli.DAL.csproj.CoreCompileInputs.cache

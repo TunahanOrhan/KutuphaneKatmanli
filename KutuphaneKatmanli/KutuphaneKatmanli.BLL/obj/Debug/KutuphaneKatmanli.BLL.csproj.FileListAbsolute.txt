@@ -1,0 +1,7 @@
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\KutuphaneKatmanli.BLL\bin\Debug\KutuphaneKatmanli.BLL.dll
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\KutuphaneKatmanli.BLL\bin\Debug\KutuphaneKatmanli.BLL.pdb
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\KutuphaneKatmanli.BLL\bin\Debug\KutuphaneKatmanli.DAL.dll
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\KutuphaneKatmanli.BLL\bin\Debug\KutuphaneKatmanli.DAL.pdb
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\KutuphaneKatmanli.BLL\obj\Debug\KutuphaneKatmanli.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\KutuphaneKatmanli.BLL\obj\Debug\KutuphaneKatmanli.BLL.dll
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\KutuphaneKatmanli.BLL\obj\Debug\KutuphaneKatmanli.BLL.pdb

@@ -1,0 +1,14 @@
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\WindowsFormsApplication1\bin\Debug\KutuphaneKatmanli.BLL.dll
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\WindowsFormsApplication1\bin\Debug\KutuphaneKatmanli.DAL.dll
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\WindowsFormsApplication1\bin\Debug\KutuphaneKatmanli.BLL.pdb
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\WindowsFormsApplication1\bin\Debug\KutuphaneKatmanli.DAL.pdb
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\WindowsFormsApplication1\obj\Debug\KutuphaneKatmanli.UI.WinForm.csprojResolveAssemblyReference.cache
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UyeIslemleri.resources
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\WindowsFormsApplication1\obj\Debug\KutuphaneKatmanli.UI.WinForm.csproj.GenerateResource.Cache
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tuna\Desktop\KutuphaneKatmanli\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
